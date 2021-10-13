@@ -7,6 +7,7 @@ const pessoas = [
   { id: 2, nome: 'Otávio' },
   { id: 3, nome: 'Júlio' },
   { id: 4, nome: 'Júlio' },
+  { id: 4, nome: 'Gabe' }
 ];
 
 function App() {
